@@ -1,0 +1,12 @@
+{
+  "id": "1",
+  "title": "треугольник",
+  "condition": "",
+  "image": "001.jpg",
+  "tags": ["geometry_triangle"],
+  "metadata": {
+    "author": "Якутович Павел",
+    "date_created": "2026-01-20"
+  }
+
+}
