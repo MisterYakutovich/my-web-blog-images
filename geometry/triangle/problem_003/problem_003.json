@@ -2,7 +2,8 @@
   "id": "3",
   "title": "треугольник",
   "condition": "",
-  "image": "003_answer.png",
+  "image_answer": "003_answer.png",
+  "image_question": "003_question.jpg",
   "tags": ["geometry_triangle"],
   "metadata": {
     "author": "Якутович Павел",
