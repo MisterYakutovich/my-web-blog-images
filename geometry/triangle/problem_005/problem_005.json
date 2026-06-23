@@ -3,7 +3,7 @@
   "title": "треугольник",
   "condition": "Отношение углов треугольника как 1 : 2 : 3. Сумма длин меньшей и большей сторон равна 7,2.Наша цель — найти длину большей стороны треугольника.",
   "image_answer": "005_answer.png",
-  "image_question": "005_question.jpg",
+  "image_question": "005_question.png",
   "tags": ["geometry_triangle"],
   "metadata": {
     "author": "Якутович Павел",
