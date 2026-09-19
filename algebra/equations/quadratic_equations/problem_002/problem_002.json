@@ -1,0 +1,12 @@
+{
+  "id": "11",
+  "title": "квадратные уравнения",
+  "condition": "При каких действительных значениях параметра a уравнение $$\frac{x^2-ax-a-1}{(x-3)(x+2a)}=0$$ имеет единственное решение?",
+  "image_answer": "002_answer.png",
+  "tags": ["algebra_quadratic_equations"],
+  "metadata": {
+    "author": "Якутович Павел",
+    "date_created": "2026-09-19"
+  }
+
+}
