@@ -1,0 +1,12 @@
+{
+  "id": "15",
+  "title": "линейные уравнения",
+  "condition": "При каких значениях параметра **а** уравнения $$2ax + 10x - 2a - 6 = 0$$ и $$2ax + 10x - a = 0$$ равносильны?",
+  "image_answer": "005_answer.png",
+  "tags": ["algebra_linear_equations"],
+  "metadata": {
+    "author": "Якутович Павел",
+    "date_created": "2026-09-03"
+  }
+
+}
