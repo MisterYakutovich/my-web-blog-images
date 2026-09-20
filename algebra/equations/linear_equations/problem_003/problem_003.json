@@ -1,0 +1,12 @@
+{
+  "id": "12",
+  "title": "линейные уравнения",
+  "condition": "При каких значениях параметра **a** уравнения $$2ax - 4x - a - 1 = 0$$ и $$4ax - 8x - a + 3 = 0$$ равносильны?",
+  "image_answer": "003_answer.png",
+  "tags": ["algebra_linear_equations"],
+  "metadata": {
+    "author": "Якутович Павел",
+    "date_created": "2026-08-08"
+  }
+
+}
